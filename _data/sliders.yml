@@ -1,0 +1,36 @@
+- selector: slider1
+  captions: true
+  images:
+    - src: /images/20160722_1.jpg
+      alt: Minimum required attributes
+    - data-src: /images/20160722_2.jpg
+      alt: Use data-src for on-demand loading
+    - data-src: /images/20160722_2.jpg
+      alt: Links work too!
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+  settings:
+    height: 400
+
+- selector: slider2
+  captions: true
+  images:
+    - src: images/20160722_1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: images/20160722_2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: images/20160722_3.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /images/20160722_1.jpg
+      alt: image one
+    - src: /images/20160722_2.jpg
+      alt: image two
+  settings:
+    height: "'auto'"
+    disableNav: true

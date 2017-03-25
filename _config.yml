@@ -6,20 +6,32 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            mtcharte
+tagline:          'Artist // Achocalla, Bolivia'
+description:      'The website of María Teresa Camacho-Hull'
+url:              http://mtcharte.net
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'María Teresa Camacho-Hull'
+  url:            https://twitter.com/mtcharte
 
 paginate:         5
+
+# Multilingual Setup
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+gems:
+- jekyll-gist
+- jekyll-paginate
+#- jekyll-polyglot
+

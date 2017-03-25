@@ -1,30 +1,18 @@
 ---
 layout: page
 title: About
+lang: en
 ---
 
+María Teresa Camacho-Hull received a MFA from the University of Maryland, College Park and an MA in Hispanic Literature from The Catholic University of America, Washington DC. She also received an Associate Degree in Photography, working solely with it for seven years. 
+
+She was born in Cochabamba, Bolivia, moved to the United States after her marriage, and for over forty years now has been living in Montgomery County, Maryland. Currently she splits her time between the USA and Bolivia, commuting back and forth and working all the while in the studios she has in both countries.
+
+Together with her late husband, Charles Jesse Hull II, she is the owner and founder of ARS.NATURA.UTA, a Culture and Arts Center in the rural community of Achocalla, just outside of La Paz, Bolivia.
+
+She is focusing, always focusing.
+
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+“As artists, we have the ability of combining our art skills with the need for awareness of the physical world. I believe our role is to initiate interaction not only with nature in general, but, more importantly, with the involvement of the creative viewers. We must focus on the need to preserve our environment - to engage through collaboration and make possible the changes that are necessary to reclaim and sustain our natural resources.”
 </p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
