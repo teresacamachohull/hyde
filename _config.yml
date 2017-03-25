@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            mtcharte
 tagline:          'Artist // Achocalla, Bolivia'
-description:      'The website of María Teresa Camacho-Hull'
+description:      'Website of María Teresa Camacho-Hull, Artist // Achoccalla, Bolivia'
 url:              http://mtcharte.net
 baseurl:          /
 
@@ -16,13 +16,13 @@ author:
   name:           'María Teresa Camacho-Hull'
   url:            https://twitter.com/mtcharte
 
-paginate:         5
+paginate:         3
 
 # Multilingual Setup
-languages: ["en", "es"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css"]
-parallel_localization: true
+#languages: ["en", "es"]
+#default_lang: "en"
+#exclude_from_localization: ["javascript", "images", "css"]
+#parallel_localization: true
 
 # Custom vars
 version:          2.1.0
