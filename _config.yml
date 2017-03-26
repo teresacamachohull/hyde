@@ -10,8 +10,7 @@ title:            mtcharte
 tagline:          'Artist // Achocalla, Bolivia'
 description:      'Website of María Teresa Camacho-Hull, Artist // Achoccalla, Bolivia'
 url:              http://mtcharte.net
-#took out baseurl because was messing up imageslider
-#baseurl:          /
+baseurl:          /
 
 author:
   name:           'María Teresa Camacho-Hull'
