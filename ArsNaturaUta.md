@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Ars.Natura.Uta
+image_sliders:
+   - slider1
 ---
+
+{% include slider.html selector="slider1" %}
+
 
 Ars.Natura.Uta is an Arts and Culture Center located in the heart of the rural community of Achocalla, a city on the outskirts of La Paz, Bolivia.
 

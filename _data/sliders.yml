@@ -1,0 +1,20 @@
+- selector: slider1
+  captions: true
+  images:
+    - src: /images/20160722_2.jpg
+      alt: caption
+    - data-src: /images/20160722_1.jpg
+      alt: Links work too
+      href: http://google.com
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+    
