@@ -3,7 +3,7 @@
   images:
     - src: /images/20160722_2.jpg
       alt: caption
-    - data-src: /images/20160722_1.jpg
+    - src: /images/20160722_1.jpg
       alt: Links work too
       href: http://google.com
   settings:
