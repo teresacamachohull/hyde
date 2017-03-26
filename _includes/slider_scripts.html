@@ -11,6 +11,7 @@
 {% if iis_slider_array != empty %}
   <script src="{{ "Ideal-Image-Slider-JS/ideal-image-slider.min.js" | relative_url }}"></script>
   <script src="{{ "Ideal-Image-Slider-JS/extensions/iis-captions.js" | relative_url }}"></script>
+  <script src="{{ site.baseurl }}Ideal-Image-Slider-JS/extensions/iis-captions.js"></script>
   <script>
   {% for selector in iis_slider_array %}
     {% assign slider = site.data.sliders | where:"selector",selector | first %}
