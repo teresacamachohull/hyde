@@ -7,5 +7,6 @@ image_sliders:
 
 {% include slider.html selector="slider20160422" %}
 
+Se puede descargar el PDF <a href="/downloads/ISDay2016_invitation.pdf">aquí</a>.
 
-Agradecemos con antemano su participación, reservando con mensaje de texto o por WhatsApp a 60148549. Para inscribir para el taller de papel hecho a mano, incluye la palabra “taller. Gracias! 
+Agradecemos con antemano su participación, reservando con mensaje de texto por WhatsApp a 60148549. Para inscribir para el taller de papel hecho a mano, incluye la palabra “taller". Gracias! 

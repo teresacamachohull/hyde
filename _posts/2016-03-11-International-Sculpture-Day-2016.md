@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internation Sculpture Day 2016
+title: International Sculpture Day 2016
 ---
 
 
