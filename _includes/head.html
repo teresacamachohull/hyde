@@ -13,8 +13,6 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-<!-- new description - from imageslider-->
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
@@ -28,12 +26,9 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  {% include slider_styles.html %}
+
+{% if page.image_sliders or layout.image_sliders %}
+<link rel="stylesheet" href="{{ site.baseurl }}ImageSlider/ideal-image-slider.css">
+<link rel="stylesheet" href="{{ site.baseurl }}ImageSlider/themes/default/default.css">
+{% endif %}
 </head>
-
-
-<!-- below from imageslider -->
-  <!--link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}"-->
-
