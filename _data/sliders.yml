@@ -1,7 +1,7 @@
 - selector: slider1
   captions: true
   images:
-    - src: "https://teresacamachohull.github.io/images/20160722_1.jpg"
+    - src: "teresacamachohull.github.io/images/20160722_1.jpg"
       alt: Minimum required attributes
     - data-src: img/20160722_1.jpg
       alt: Use data-src for on-demand loading
