@@ -9,9 +9,8 @@
   {% assign iis_slider_array = iis_slider_array | push: slider | uniq %}
 {% endfor %}
 {% if iis_slider_array != empty %}
-  <script src="{{ "/Ideal-Image-Slider-JS/ideal-image-slider.min.js" | relative_url }}"></script>
-  <script src="{{ site.baseurl }}Ideal-Image-Slider-JS/ideal-image-slider.min.js"></script>
-  <script src="{{ site.baseurl }}Ideal-Image-Slider-JS/extensions/captions/iis-captions.js"></script>
+  <script src="{{ "/ImageSlider/ideal-image-slider.min.js" | relative_url }}"></script>
+  <script src="{{ "/ImageSlider/extensions/captions/iis-captions.js" | relative_url }}"></script>
   <script>
   {% for selector in iis_slider_array %}
     {% assign slider = site.data.sliders | where:"selector",selector | first %}
