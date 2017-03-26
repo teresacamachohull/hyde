@@ -1,20 +1,24 @@
-- selector: slider1
+- selector: slider20160722
   captions: true
   images:
-    - src: /images/20160722_2.jpg
-      alt: caption
     - src: /images/20160722_1.jpg
-      alt: Links work too
-      href: http://google.com
+      title: Chacana (Andean Cross)
+      alt: 90ft diameter. Porcelain ceramics, bricks, terracotta ceramics, hand-picked river stones.
+    - src: /images/20160722_2.jpg
+      title: Chacana detail
   settings:
-    height: 400
-    initialHeight:
-    maxHeight:
-    interval:
-    transitionDuration:
-    effect:
-    disableNav:
-    keyboardNav:
-    previousNavSelector:
-    nextNavSelector:
-    
+    height: "'auto'"
+
+- selector: slider20160422
+  captions: true
+  images:
+    - src: /images/20160422_1.jpg
+      alt: 
+    - src: /images/20160422_2.jpg
+      alt: 
+    - src: /images/20160422_3.jpg
+      alt: 
+    - src: /images/20160422_4.jpg
+      alt: 
+  settings:
+    height: "'auto'"  
