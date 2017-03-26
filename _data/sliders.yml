@@ -14,13 +14,13 @@
 - selector: slider2
   captions: true
   images:
-    - src: "{{ site.baseurl }}images/20160722_1.jpg"
+    - src: images/20160722_1.jpg
       title: Balloons!
       alt: This slider has caption titles
-    - data-src: /images/20160722_2.jpg
+    - data-src: images/20160722_2.jpg
       title: This slider uses the fade effect
       alt: Instead of the default slide effect
-    - data-src: /images/20160722_3.jpg
+    - data-src: images/20160722_3.jpg
   settings:
     height: "'auto'"
     effect: "'fade'"
