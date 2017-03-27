@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <div class="contact_container">
-  <form action="contactform" method="POST">
+  <form action="//formspree.io/teresa.camachohull@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" placeholder="Your name">
 
@@ -20,9 +20,9 @@ title: Contact
 
     <input type="submit" value="Send">
   </form>
-<script>
+<!--script>
     var contactform =  document.getElementById('contactform');
     contactform.setAttribute('action', '//formspree.io/' + 'teresa.camacho' + 'hull' + '@' + 'gmail' + '.' + 'com');
-</script>
+</script-->
 
 </div>
