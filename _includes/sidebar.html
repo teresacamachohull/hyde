@@ -1,33 +1,22 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <a href="{{ "/" | relative_url }}"><img style="margin: auto; width: 50%;" src="{{ "images/mtcharte_firma2.png" | relative_url }}" alt="signature of the artist"/></a>
       <h1>
-          <a href="{{ "/" | relative_url }}">
-          {{ site.title | escape }}
-        </a>
+          <a href="{{ "/" | relative_url }}">mtcharte.net</a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
-
-    <nav class="sidebar-nav">
-       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a> 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
+      <p class="lead">Website of María<br /> Teresa Camacho-Hull <br />Artist // Achocalla, Bolivia</p>
+    </div>    
+<nav class="sidebar-nav-list">
+      {% assign pages_list = site.pages | sort:"menu_weight" %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% if node.menu == "main" %}
+            {% if node.url == node.url %}<a class="active"{% endif %} href="{{ node.url }}">{{ node.title }}</a><br />    
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
-    </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+</nav>
+    <p class="sidebar-nav-copy">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

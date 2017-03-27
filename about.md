@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+menu: main
+menu_weight: 1
 lang: en
 ---
 

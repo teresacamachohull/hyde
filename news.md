@@ -1,6 +1,8 @@
 ---
 layout: page
 title: News
+menu: main
+menu_weight: 3
 ---
 
 <section class="archive-post-list">

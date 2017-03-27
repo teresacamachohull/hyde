@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ars.Natura.Uta
+menu: main
+menu_weight: 4
 image_sliders:
    - slider1
 ---
