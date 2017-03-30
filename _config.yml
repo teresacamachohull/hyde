@@ -20,6 +20,12 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
+# Portfolio Collection
+collections:
+  portfolio:
+    output: true
+
+
 # Build settings
 markdown:         kramdown
 highlighter:      rouge
