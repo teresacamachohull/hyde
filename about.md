@@ -28,7 +28,7 @@ For María Teresa, Bolivia and her adopted USA are two countries that will alway
 
 **Curriculum Vitae**
 
-Coming soon
+To view the artist's curriculum vitae, please click <a href="{{ "/cv" | relative_url }}">here</a>.
 
 **Press**
 
