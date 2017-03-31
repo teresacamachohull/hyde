@@ -1,6 +1,6 @@
 /* Preload images */
 body:after {
-  content: url(https://mtcharte.net/images/close.png) url(https://mtcharte.net/images/loading.gif) url(http:s//mtcharte.net/images/prev.png) url(https://mtcharte.net/images/next.png);
+  content: url(https://mtcharte.net/images/close.png) url(https://mtcharte.net/images/loading.gif) url(https://mtcharte.net/images/prev.png) url(https://mtcharte.net/images/next.png);
   display: none;
 }
 
