@@ -6,6 +6,7 @@ custom_css: portfolio
 ---
 
 
+
 <a href="{{ "images/art003_lg.jpg" | relative_url }}" data-lightbox="Mixed Media" data-title="My caption"><img src="{{site_url}}/images/art003_sm.jpg" class="portfolio"/></a>
 
 <a href="{{ "images/art004_lg.jpg" | relative_url }}" data-lightbox="Mixed Media" data-title="My caption"><img src="{{site_url}}/images/art004_sm.jpg" class="portfolio"/></a>
