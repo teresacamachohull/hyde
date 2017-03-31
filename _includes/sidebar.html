@@ -18,13 +18,13 @@
       {% endfor %}
 </nav>
 
-  <p class="sidebar-nav-copy">| 
+  <!--p class="sidebar-nav-copy">| 
     {% for tongue in site.languages %}
       <a href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% assign tongue_text = 'See site in English' %}
       {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% assign tongue_text = 'Ver sitio en español' %}
       {% endif %}">{{ tongue_text }}</a> |
     {% endfor %}
- </p>
+ </p-->
 
     <p class="sidebar-nav-copy">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
