@@ -5,7 +5,7 @@ menu: main
 menu_weight: 4
 ---
 
-![panaroma fo Ars.Natura.Uta]({{site_url}}/images/arsnaturauta.jpg)
+<img src="{{ "images/art001.jpg" | relative_url }}" alt="panorama of Ars.Natura.Uta" />
 
 
 Ars.Natura.Uta is an Arts and Culture Center located in the heart of the rural community of Achocalla, a city on the outskirts of La Paz, Bolivia.
