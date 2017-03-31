@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 menu: main
 menu_weight: 1
 lang: en

@@ -20,6 +20,12 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
+# Polyglot
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["assets", "images", "downloads", "_portfolio", "_data"]
+parallel_localization: true
+
 # Portfolio Collection
 collections:
   portfolio:
@@ -35,6 +41,7 @@ gems:
   #- jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-polyglot
 exclude:
   - Gemfile
   - Gemfile.lock
