@@ -108,7 +108,7 @@ Park, Washington DC
 <a name="performance">
 #### Performances & Installations: 
 
-* “Ecce Homo,” Pintura y Escultura de Teresa Camacho y Keiko Gonzalez, Museo Chico antes Correo General, Ministerio de Cultura, La Paz, Bolivia. Exposición y Performance presented por Teresa Camacho colaborando con María Jose Rivera, ballerina.
+* “Ecce Homo,” Pintura y Escultura de Teresa Camacho y Keiko Gonzalez, Museo Chico antes Correo General, Ministerio de Cultura, La Paz, Bolivia. Exposición y Performance presented by Teresa Camacho collaborating with María Jose Rivera, ballerina.
 * “Bolivia: Art Installation and Performance Dance,” directed by Teresa Camacho-Hull in collaboration with ballerina María Jose Rivera, Latin American Museum of Art, Santa Fe, New Mexico.
 * Inauguration of “El Salar,” Gallery of Art of Gaston Ugalde with Keiko Gonzalez’s art exhibition of paintings. Performance presentation directed by Teresa Camacho-Hull with the participation of ballerina María Jose Rivera, Sopocachi, La Paz, Bolivia.
 

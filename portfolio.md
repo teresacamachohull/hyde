@@ -30,4 +30,12 @@ custom_css: portfolio
             <figcaption>Metal</figcaption>
         </figure>
     </a>
+      <a href="#">
+        <figure>
+             <a href="{{ "/portfolio/raices" | relative_url }}" class="album"><img src="{{site_url}}/images/art300_sm.jpg" class="album" alt="Raices Album"/></a>
+
+
+            <figcaption>Raices</figcaption>
+        </figure>
+    </a>
 </div>
