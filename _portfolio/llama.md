@@ -7,6 +7,8 @@ custom_css: portfolio
 
 <p>&nbsp;</p>
 
+<a href="{{ "images/art326.jpg" | relative_url }}" data-lightbox="Llama" data-title="My caption"><img src="{{site_url}}/images/art326_sm.jpg" class="portfolio"/></a>
+
 <a href="{{ "images/art310.jpg" | relative_url }}" data-lightbox="Llama" data-title="My caption"><img src="{{site_url}}/images/art310_sm.jpg" class="portfolio"/></a>
 
 <a href="{{ "images/art311.jpg" | relative_url }}" data-lightbox="Llama" data-title="My caption"><img src="{{site_url}}/images/art311_sm.jpg" class="portfolio"/></a>
@@ -39,3 +41,4 @@ custom_css: portfolio
 
 <a href="{{ "images/art325.jpg" | relative_url }}" data-lightbox="Llama" data-title="My caption"><img src="{{site_url}}/images/art325_sm.jpg" class="portfolio"/></a>
 
+<a href="{{ "images/art327.jpg" | relative_url }}" data-lightbox="Llama" data-title="My caption"><img src="{{site_url}}/images/art327_sm.jpg" class="portfolio"/></a>

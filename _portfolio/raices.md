@@ -24,3 +24,5 @@ custom_css: portfolio
 <a href="{{ "images/art309.jpg" | relative_url }}" data-lightbox="Raices" data-title="My caption"><img src="{{site_url}}/images/art309_sm.jpg" class="portfolio"/></a>
 
 <a href="{{ "images/art301.jpg" | relative_url }}" data-lightbox="Raices" data-title="My caption"><img src="{{site_url}}/images/art301_sm.jpg" class="portfolio"/></a>
+
+<a href="{{ "images/art328.jpg" | relative_url }}" data-lightbox="Raices" data-title="My caption"><img src="{{site_url}}/images/art328_sm.jpg" class="portfolio"/></a>
