@@ -1,0 +1,19 @@
+language: ruby
+rvm:
+  - 2.4.0
+script: bundle exec jekyll build
+branches:
+  only:
+    - jekyll
+sudo: false
+after_success:
+  - cd _site
+  - git init
+  - git config user.name "Maria Teresa Camacho Hull"
+  - git config user.email "teresa.camachohull@gmail.com"
+  - git remote add upstream "https://$GH_TOKEN@github.com/teresacamachohull/teresacamachohull.github.io.git"
+  - git fetch upstream
+  - git reset upstream/master
+  - git add -A .
+  - git commit -m "[Build] ${TRAVIS_COMMIT}"
+  - git push -q upstream HEAD:master
