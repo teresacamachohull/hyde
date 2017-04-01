@@ -1,11 +1,12 @@
+{% assign lang = site.active_lang %}
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <a href="{{ "/" | relative_url }}"><img style="margin: auto; width: 50%;" src="{{ "images/mtcharte_firma2.png" | relative_url }}" alt="signature of the artist"/></a>
+      <a href="{{ "/" | relative_url }}"><img style="margin: auto; width: 50%;" src="{{ "images/mtcharte_firma2.png" | relative_url }}" alt="logo"/></a>
       <h1>
           <a href="{{ "/" | relative_url }}">mtcharte.net</a>
       </h1>
-      <p class="lead">Website of María<br /> Teresa Camacho-Hull <br />Artist // Achocalla, Bolivia</p>
+       <p class="lead">{{ site.description[lang] }}</p>
     </div>    
 <nav class="sidebar-nav-list">
       {% assign pages_list = site.pages | sort:"menu_weight" %}
@@ -17,6 +18,12 @@
         {% endif %}
       {% endfor %}
 </nav>
+
+<p class="sidebar-nav-copy">Language:
+  {% for tongue in site.languages %}
+<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a> |
+  {% endfor %}
+</p>
 
   <!--p class="sidebar-nav-copy">| 
     {% for tongue in site.languages %}

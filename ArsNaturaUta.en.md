@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ars.Natura.Uta
+permalink: /arsnaturauta/
+lang: en
 menu: main
 menu_weight: 4
 ---

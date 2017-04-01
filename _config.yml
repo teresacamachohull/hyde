@@ -3,9 +3,11 @@ permalink:        pretty
 
 # Setup
 title:            mtcharte
-tagline:          Artist
-description:      Website of María Teresa Camacho-Hull // Artist // Achocalla, Bolivia
-url:              "" # the base hostname & protocol for your site, e.g. http://example.com
+tagline:          María Teresa Camacho-Hull
+description:      
+    en: Website of María Teresa Camacho-Hull // Artist // Achocalla, Bolivia
+    es: Sitio de María Teresa Camacho-Hull // Artista // Achocalla, Bolivia
+url:              http://mtcharte.net
 baseurl:          "" # the subpath of your site
 
 author:

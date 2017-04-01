@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Program Schedule for the International Day of Sculpture 2016
+lang: es
 image_sliders:
   - slider20160422
 ---

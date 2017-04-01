@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The work continues..
+lang: en
 ---
 
 ![detail of Foon Sham sculpture]({{site_url}}/images/20160602_1.jpg)

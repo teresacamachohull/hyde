@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A total success!
+lang: en
 image_sliders:
   - slider20160505
 ---

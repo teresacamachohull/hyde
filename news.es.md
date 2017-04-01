@@ -1,12 +1,13 @@
 ---
 layout: page
-title: News
+title: Noticias
+permalink: /news/
+lang: es
 menu: main
 menu_weight: 3
 ---
 
 <section class="archive-post-list">
-
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
@@ -18,6 +19,4 @@ menu_weight: 3
        <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
        {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
-
 </section>
- 
