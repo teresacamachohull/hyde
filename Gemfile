@@ -8,7 +8,3 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-polyglot"
 end
-<<<<<<< HEAD
-
-=======
->>>>>>> 33e27a31d23beca899ce82fc94db6767408e4737
