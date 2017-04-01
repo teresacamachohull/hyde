@@ -4,7 +4,9 @@ permalink:        pretty
 # Setup
 title:            mtcharte
 tagline:          Artist
-description:      Website of María Teresa Camacho-Hull // Artist // Achocalla, Bolivia
+description:
+      en:      Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia
+      es:      Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia 
 url:              "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:          "" # the subpath of your site
 
@@ -19,6 +21,13 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+
+# Polyglot
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["assets", "images", "downloads"]
+parallel_localization: true
 
 # Portfolio Collection
 collections:
@@ -35,6 +44,7 @@ gems:
   #- jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-polyglot
 exclude:
   - Gemfile
   - Gemfile.lock

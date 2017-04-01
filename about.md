@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
+permalink: /about/
+lang: en
 menu: main
 menu_weight: 1
-lang: en
 ---
 
 <p class="message">

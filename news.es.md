@@ -1,8 +1,8 @@
 ---
 layout: page
-title: News
+title: Noticias
 permalink: /news/
-lang: en
+lang: es
 menu: main
 menu_weight: 3
 ---
