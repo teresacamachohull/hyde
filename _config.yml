@@ -34,6 +34,14 @@ collections:
   portfolio:
     output: true
 
+# GitHub
+username:             teresacamachohull
+repo:                 teresacamachohull.github.io
+branch:               jekyll
+
+# Jekyll source / destination
+source:               .
+destination:          _site
 
 # Build settings
 markdown:         kramdown
@@ -48,3 +56,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
