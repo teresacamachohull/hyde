@@ -38,6 +38,10 @@ validation-status.json
 validation-report.json
 
 # Folders to ignore
+<<<<<<< HEAD
 node_modules
 
 vendor
+=======
+node_modules
+>>>>>>> 33e27a31d23beca899ce82fc94db6767408e4737
