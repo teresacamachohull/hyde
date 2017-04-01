@@ -14,7 +14,7 @@ menu_weight: 1
 
 **Contact**
 
-To send an email to the artist, please click <a href="{{ "contact" | relative_url }}">here</a>.
+To send an email to the artist, please click <a href="{{ "contact" | relative_url }}">here.</a>
 
 
 **Bio**
