@@ -25,7 +25,7 @@ github:
 # Polyglot
 languages: ["en", "es"]
 default_lang: "en"
-exclude_from_localization: ["assets", "images", "downloads", "_portfolio", "_data"]
+exclude_from_localization: ["assets", "images", "downloads"]
 parallel_localization: true
 
 # Portfolio Collection

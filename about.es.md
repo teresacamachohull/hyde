@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+lang: es
 menu: main
 menu_weight: 1
-lang: es
 ---
 
 <p class="message">
