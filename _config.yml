@@ -37,7 +37,7 @@ collections:
 # GitHub
 username:             teresacamachohull
 repo:                 teresacamachohull.github.io
-branch:               source
+branch:               master
 
 # Jekyll source / destination
 source:               .
