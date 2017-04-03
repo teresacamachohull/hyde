@@ -2,6 +2,7 @@
 layout: page
 title: The work continues..
 lang: en
+header: no
 ---
 
 ![Chacana detail]({{site_url}}/images/20160602_1.jpg)

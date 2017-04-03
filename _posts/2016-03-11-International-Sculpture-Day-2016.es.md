@@ -2,6 +2,7 @@
 layout: page
 title: International Sculpture Day 2016
 lang: es
+header: no
 ---
 
 En celebración del Día Internacional de la Escultura, ARS.NATURA.UTA - El Proyecto, invita al público a una visita de apertura y celebración de sus instalaciones en la comunidad rural de Achocalla en las inmediaciones de La Paz, Bolivia.

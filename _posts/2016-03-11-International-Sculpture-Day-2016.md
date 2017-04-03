@@ -2,6 +2,7 @@
 layout: page
 title: International Sculpture Day 2016
 lang: en
+header: no
 ---
 
 

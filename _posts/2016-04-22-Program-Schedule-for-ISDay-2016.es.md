@@ -2,6 +2,7 @@
 layout: page
 title: Horario para el Día Internacional de la Esculture 2016
 lang: es
+header: no
 image_sliders:
   - slider20160422
 ---

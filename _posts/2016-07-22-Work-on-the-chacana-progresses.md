@@ -2,6 +2,7 @@
 layout: page
 title: Work on the chacana progresses..
 lang: en
+header: no
 image_sliders:
   - slider20160722
 ---

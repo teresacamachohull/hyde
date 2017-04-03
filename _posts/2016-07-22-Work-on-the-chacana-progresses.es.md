@@ -2,6 +2,7 @@
 layout: page
 title: Trabajo en la chacana progresa...
 lang: es
+header: no
 image_sliders:
   - slider20160722
 ---

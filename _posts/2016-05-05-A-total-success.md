@@ -2,6 +2,7 @@
 layout: page
 title: A total success!
 lang: en
+header: no
 image_sliders:
   - slider20160505
 ---

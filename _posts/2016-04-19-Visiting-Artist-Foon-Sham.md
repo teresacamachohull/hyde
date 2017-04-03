@@ -2,6 +2,7 @@
 layout: page
 title: Visiting Artist 2016 Foon Sham
 lang: en
+header: no
 image_sliders:
   - slider20160419a
   - slider20160419b

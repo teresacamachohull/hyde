@@ -122,35 +122,17 @@
   images:
     - src: /images/home_1.jpg
       alt: art
-    - src: /images/home_2.jpg
-      alt: art
     - src: /images/home_3.jpg
-      alt: art
-    - src: /images/home_4.jpg
-      alt: art
-    - src: /images/home_6.jpg
       alt: art
     - src: /images/home_7.jpg
       alt: art
     - src: /images/home_8.jpg
       alt: art
-    - src: /images/home_9.jpg
-      alt: art
-    - src: /images/home_10.jpg
-      alt: art
-    - src: /images/home_11.jpg
-      alt: art
-    - src: /images/home_12.jpg
-      alt: art
-    - src: /images/home_13.jpg
-      alt: art
     - src: /images/home_14.jpg
-      alt: art
-    - src: /images/home_15.jpg
       alt: art
     - src: /images/home_16.jpg
       alt: art
   settings:
     height: "'auto'"  
     effect: "'fade'" 
-    maxHeight: 700
+    maxHeight: 600 

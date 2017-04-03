@@ -2,6 +2,7 @@
 layout: page
 title: Press "Monumento chiquitano en Achocalla"
 language: en
+header: no
 ---
 
 <a href="http://www.la-razon.com/index.php?_url=/suplementos/escape/Monumento-chiquitano-Achocalla_0_2233576719.html">La Razón</a> (Edición Impresa) /15 de marzo de 2015

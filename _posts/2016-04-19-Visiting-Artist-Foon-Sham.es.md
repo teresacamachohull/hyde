@@ -2,6 +2,7 @@
 layout: page
 title: Artista Visitante 2016 Foon Sham
 lang: es
+header: no
 image_sliders:
   - slider20160419a
   - slider20160419b

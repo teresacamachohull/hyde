@@ -1,7 +1,8 @@
 ---
 layout: page
-title: A total success!
+title: ¡Un éxito total!
 lang: es
+header: no
 image_sliders:
   - slider20160505
 ---

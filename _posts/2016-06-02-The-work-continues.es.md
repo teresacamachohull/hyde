@@ -2,6 +2,7 @@
 layout: page
 title: El trabajo progresa...
 lang: es
+header: no
 ---
 
 ![detail of Foon Sham sculpture]({{site_url}}/images/20160602_1.jpg)

@@ -1,4 +1,4 @@
-title: 'María Teresa Camacho Hull'
+title: 'María Teresa Camacho Hull - Artist'
 slogan: 'María Teresa Camacho Hull - Artist'
 description:
   en: '» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia'
@@ -9,7 +9,7 @@ url: 'http://mtcharte.net'
 baseurl: ''
 
 urlimg: 'http://mtcharte.net/images/'
-logo: "logo.png"
+#logo: "logo.png"
 
 gems:
     - jekyll-asciidoc
@@ -62,7 +62,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author:      # Default author for pages
   -
     scope:
       path: ''
@@ -71,7 +71,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author:      # Default author for posts
 
 # SEO
 google_author:             'https://plus.google.com/u/0/118311555303973066167'
