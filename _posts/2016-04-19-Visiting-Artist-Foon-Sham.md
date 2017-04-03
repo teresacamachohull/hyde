@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Visiting Artist 2016 Foon Sham
 lang: en
 image_sliders:

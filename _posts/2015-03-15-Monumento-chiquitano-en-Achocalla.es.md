@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: "Monumento chiquitano en Achocalla"
 language: es
 ---

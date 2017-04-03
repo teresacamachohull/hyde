@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: A total success!
 lang: en
 image_sliders:

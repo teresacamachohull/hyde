@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Horario para el Día Internacional de la Esculture 2016
 lang: es
 image_sliders:

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Trabajo en la chacana progresa...
 lang: es
 image_sliders:

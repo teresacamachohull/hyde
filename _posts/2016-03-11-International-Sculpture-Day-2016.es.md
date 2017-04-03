@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: International Sculpture Day 2016
 lang: es
 ---

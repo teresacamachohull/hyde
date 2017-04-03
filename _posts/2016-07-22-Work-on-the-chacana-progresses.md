@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Work on the chacana progresses..
 lang: en
 image_sliders:

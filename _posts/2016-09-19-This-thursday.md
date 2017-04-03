@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: This Thursday!
 lang: en
 ---
