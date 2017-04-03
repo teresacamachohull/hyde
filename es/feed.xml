@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="http://mtcharte.net/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>María Teresa Camacho Hull</title>
+		<title>María Teresa Camacho Hull - Artist</title>
 		<description>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</description>
 		<link>http://mtcharte.net/</link>
 		<atom:link href="/es/feed.xml" rel="self" type="application/rss+xml" />
@@ -50,7 +50,7 @@
 			</item>
 		
 			<item>
-				<title>A total success!</title>
+				<title>¡Un éxito total!</title>
 				<link>http://mtcharte.net/A-total-success/</link>
 				<pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
 				<description>&lt;!-- Jekyll Ideal Image Slider Include --&gt;

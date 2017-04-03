@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://mtcharte.net/</id>
-	<title>María Teresa Camacho Hull</title>
-	<updated>2017-04-03T04:26:33+00:00</updated>
+	<title>María Teresa Camacho Hull - Artist</title>
+	<updated>2017-04-03T05:16:24+00:00</updated>
 
 	<subtitle>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</subtitle>
 
@@ -32,15 +32,6 @@
 			<updated>2016-09-19T00:00:00+00:00</updated>
 
 			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
-			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/This-thursday/">&lt;p&gt;&lt;img src=&quot;/images/20160919_1.jpg&quot; alt=&quot;postcard for exhibit&quot; /&gt;&lt;/p&gt;
 </content>
@@ -57,15 +48,6 @@
 			<link href="/es/Work-on-the-chacana-progresses/" rel="alternate" type="text/html" title="Trabajo en la chacana progresa..." />
 			<updated>2016-07-22T00:00:00+00:00</updated>
 
-			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
 			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/Work-on-the-chacana-progresses/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
@@ -96,15 +78,6 @@
 			<updated>2016-06-02T00:00:00+00:00</updated>
 
 			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
-			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/The-work-continues/">&lt;p&gt;&lt;img src=&quot;/images/20160602_1.jpg&quot; alt=&quot;detail of Foon Sham sculpture&quot; /&gt;&lt;/p&gt;
 
@@ -119,19 +92,10 @@
 	
 		<entry>
 			<id>http://mtcharte.net/A-total-success/</id>
-			<title>A total success!</title>
-			<link href="/es/A-total-success/" rel="alternate" type="text/html" title="A total success!" />
+			<title>¡Un éxito total!</title>
+			<link href="/es/A-total-success/" rel="alternate" type="text/html" title="¡Un éxito total!" />
 			<updated>2016-05-05T00:00:00+00:00</updated>
 
-			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
 			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/A-total-success/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
@@ -198,15 +162,6 @@
 			<updated>2016-04-22T00:00:00+00:00</updated>
 
 			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
-			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/Program-Schedule-for-ISDay-2016/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
 &lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
@@ -241,15 +196,6 @@
 			<link href="/es/Visiting-Artist-Foon-Sham/" rel="alternate" type="text/html" title="Artista Visitante 2016 Foon Sham" />
 			<updated>2016-04-19T00:00:00+00:00</updated>
 
-			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
 			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/Visiting-Artist-Foon-Sham/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
@@ -335,15 +281,6 @@
 			<updated>2016-03-11T00:00:00+00:00</updated>
 
 			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
-			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/International-Sculpture-Day-2016/">&lt;p&gt;En celebración del Día Internacional de la Escultura, ARS.NATURA.UTA - El Proyecto, invita al público a una visita de apertura y celebración de sus instalaciones en la comunidad rural de Achocalla en las inmediaciones de La Paz, Bolivia.&lt;/p&gt;
 
@@ -380,15 +317,6 @@
 			<updated>2016-02-26T00:00:00+00:00</updated>
 
 			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
-			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/Welcome/">&lt;p&gt;El polvo todavía se está asentando, así que vuelve pronto para ver el contenido agregado.&lt;/p&gt;
 </content>
@@ -405,15 +333,6 @@
 			<link href="/es/Monumento-chiquitano-en-Achocalla/" rel="alternate" type="text/html" title="Monumento chiquitano en Achocalla" />
 			<updated>2015-03-15T00:00:00+00:00</updated>
 
-			
-				
-				<author>
-					
-						<name>María Teresa Camacho-Hull</name>
-					
-					
-					
-				</author>
 			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/Monumento-chiquitano-en-Achocalla/">&lt;p&gt;&lt;a href=&quot;http://www.la-razon.com/index.php?_url=/suplementos/escape/Monumento-chiquitano-Achocalla_0_2233576719.html&quot;&gt;La Razón&lt;/a&gt; (Edición Impresa) /15 de marzo de 2015&lt;/p&gt;

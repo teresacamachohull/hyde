@@ -1,7 +1,5 @@
 /* TEAM */
 
-Name: María Teresa Camacho-Hull
-
 
 /* THANKS */
 
