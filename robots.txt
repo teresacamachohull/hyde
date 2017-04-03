@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://mtcharte.net/sitemap.xml

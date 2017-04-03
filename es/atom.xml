@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://mtcharte.net/</id>
+	<title>María Teresa Camacho Hull</title>
+	<updated>2017-04-03T03:47:23+00:00</updated>
+
+	<subtitle>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</subtitle>
+
+	
+		
+		<author>
+			
+				<name>María Teresa Camacho-Hull</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="/es/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="/es/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://mtcharte.net/This-thursday/</id>
+			<title>¡Este jueves..!</title>
+			<link href="/es/This-thursday/" rel="alternate" type="text/html" title="¡Este jueves..!" />
+			<updated>2016-09-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/This-thursday/">&lt;p&gt;&lt;img src=&quot;/images/20160919_1.jpg&quot; alt=&quot;postcard for exhibit&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-09-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/Work-on-the-chacana-progresses/</id>
+			<title>Trabajo en la chacana progresa...</title>
+			<link href="/es/Work-on-the-chacana-progresses/" rel="alternate" type="text/html" title="Trabajo en la chacana progresa..." />
+			<updated>2016-07-22T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/Work-on-the-chacana-progresses/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.3 --&gt;
+
+&lt;div id=&quot;slider20160722&quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160722_1.jpg&quot; title=&quot;Chacana (Andean Cross)&quot; alt=&quot;90ft diameter. Porcelain ceramics, bricks, terracotta ceramics, hand-picked river stones.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160722_2.jpg&quot; title=&quot;Chacana detail&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;Para mas información sobre la chacana, vea &lt;a href=&quot;http://labyrinthina.com&quot;&gt;labyrinthina.com&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-07-22T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/The-work-continues/</id>
+			<title>El trabajo progresa...</title>
+			<link href="/es/The-work-continues/" rel="alternate" type="text/html" title="El trabajo progresa..." />
+			<updated>2016-06-02T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/The-work-continues/">&lt;p&gt;&lt;img src=&quot;/images/20160602_1.jpg&quot; alt=&quot;detail of Foon Sham sculpture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para más información sobre el artista visitante Foon Sham y su escultura-en-progreso, por favor vea &lt;a href=&quot;http://mtcharte.net/2016/04/19/Visiting-Artist-Foon-Sham/&quot;&gt;este&lt;/a&gt; post anterior.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-06-02T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/A-total-success/</id>
+			<title>A total success!</title>
+			<link href="/es/A-total-success/" rel="alternate" type="text/html" title="A total success!" />
+			<updated>2016-05-05T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/A-total-success/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.3 --&gt;
+
+&lt;div id=&quot;slider20160505&quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_1.jpg&quot; title=&quot;&quot; alt=&quot;A beautiful day for IS Day 2016!&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_2.jpg&quot; title=&quot;&quot; alt=&quot;Materials for the papermaking workshop&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_3.jpg&quot; title=&quot;&quot; alt=&quot;Learning how to make deckles and moulds&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_4.jpg&quot; title=&quot;&quot; alt=&quot;Learning how to make deckles and moulds&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_5.jpg&quot; title=&quot;&quot; alt=&quot;Some of the inclusions to be used in the workshop&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_6.jpg&quot; title=&quot;&quot; alt=&quot;Couching&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_7.jpg&quot; title=&quot;&quot; alt=&quot;Papermaking demonstration&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_8.jpg&quot; title=&quot;&quot; alt=&quot;Couching&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_9.jpg&quot; title=&quot;&quot; alt=&quot;Couching&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_10.jpg&quot; title=&quot;&quot; alt=&quot;Couching&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_11.jpg&quot; title=&quot;&quot; alt=&quot;IS Day Participants&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_12.jpg&quot; title=&quot;&quot; alt=&quot;IS Day Participants&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_13.jpg&quot; title=&quot;&quot; alt=&quot;Traditional Andean Ch'alla&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_14.jpg&quot; title=&quot;&quot; alt=&quot;Walking the grounds of the Art Center&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160505_16.jpg&quot; title=&quot;&quot; alt=&quot;Dance performance in honor of the ch'alla&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;Foon Sham, escultor, no fue capaz de estar aquí en ISDay, sin embargo, llegó unas semanas antes de comenzar el trabajo en su pieza. La escultura se exhibió “en proceso”, causando mucha admiración, así como el interés en volver a verlo una vez que la escultura se ha completado. El artista declaró: “Trabajar con los artesanos locales en Ars.Natura.Uta fue una experiencia agradable, aunque tuve que comunicarme con ellos principalmente a través de un libro de bocetos. Fue mi primera vez para diseñar una escultura en ladrillos y su trabajo de mano con hormigón y mortero fueron muy impresionantes “.&lt;/p&gt;
+
+&lt;p&gt;Una manifestación y taller de fabricación de papel fue parte de las festividades. Andrea Hull, que aprendió el oficio mientras trabajaba como asistente de la papelera en Pyramid Atlantic (Maryland, EE.UU.), dijo: “… mostré a los asistentes cómo hacer un molde y deckle, cómo preparar la papilla, cómo tirar una hoja, cómo sacar el paper del molde y finalmente varios métodos para secar su papel hecho a mano. También discutimos inclusiones, como flores secas y otras flora nativa. Fue un grupo pequeño pero muy entusiasta y tengo grandes esperanzas para el ISDay del próximo año. Me encantaría tener más ejemplos para mostrar, particularmente algunos hechos con hierbas y plantas nativas, que está actualmente en desarrollo, así como crear algunas armaduras de alambre para resaltar las posibilidades esculturales de papel hecho a mano “.&lt;/p&gt;
+
+&lt;p&gt;Una ceremonia ch’alla - que es una ofrenda a Pachamama, o Madre Tierra - fue realizada por un yatiri local, o un hombre santo. La ofrenda se quema en un fuego ritual - y en este día IS, hubo un giro, con una obra de baile moderna realizada junto a ella, por la bailarina Amancaya Rivera Camacho.&lt;/p&gt;
+
+&lt;p&gt;Un asistente, Lic. Magali Vega, profesora retirada de Comunicaciones de la Universidad Mayor de San Andrés en La Paz, comentó: “El IsDay 2016 en Ars.Natura.Uta no pudo haber sido un día mejor. Las actividades, el compartir en un bello escenario, el arte, la escultura de otros artistas, la simpatía de todo el evento … Nunca he oído hablar de un día especial dedicado a celebrar y la conciencia sobre la escultura! Si Ars.Natura.Uta tiene esta casa abierta de nuevo el año que viene, por favor, incluyame en su lista de invita!”&lt;/p&gt;
+
+&lt;p&gt;Otro asistente, el Sr. Oscar Vega López, añadió: “El día 2016 en el Centro Cultural ARS.NATURA.UTA fue una experiencia maravillosa. Todas las actividades y celebraciones del día de la escultura en todo el mundo es un evento asombroso. Aquí en Bolivia disfrutamos de un gran día, no podría ser mejor. Lo que nos sorprendió fue la integración de todas las artes para celebrar este Día de la Escultura: la arquitectura del Centro, las esculturas de diferentes artistas, locales e internacionales, las pinturas, el taller sobre la fabricación de papel, el espectáculo y la ofrenda tradicional a la Madre Tierra. ¡A los participantes les gustaría ser invitados nuevamente para este Día del próximo año! FELICIDADES! Teresa Camacho Hull y su equipo de colaboradores / asistentes y todos los artistas que trabajan duro a través de las ARTES para el mejoramiento de la VIDA en el mundo “.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20160505_15.jpg&quot; alt=&quot;Una danza en honor a la ch'alla&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-05-05T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/Program-Schedule-for-ISDay-2016/</id>
+			<title>Horario para el Día Internacional de la Esculture 2016</title>
+			<link href="/es/Program-Schedule-for-ISDay-2016/" rel="alternate" type="text/html" title="Horario para el Día Internacional de la Esculture 2016" />
+			<updated>2016-04-22T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/Program-Schedule-for-ISDay-2016/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.3 --&gt;
+
+&lt;div id=&quot;slider20160422&quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_1.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_2.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_3.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_4.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;Se puede descargar el PDF &lt;a href=&quot;/downloads/ISDay2016_invitation.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Agradecemos con antemano su participación, reservando con mensaje de texto por WhatsApp a 60148549. Para inscribir para el taller de papel hecho a mano, incluye la palabra “taller”. Gracias!&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-04-22T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/Visiting-Artist-Foon-Sham/</id>
+			<title>Artista Visitante 2016 Foon Sham</title>
+			<link href="/es/Visiting-Artist-Foon-Sham/" rel="alternate" type="text/html" title="Artista Visitante 2016 Foon Sham" />
+			<updated>2016-04-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/Visiting-Artist-Foon-Sham/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.3 --&gt;
+
+&lt;div id=&quot;slider20160419a&quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_1.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_2.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_3.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_4.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_5.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_6.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_7.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_8.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_9.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_10.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_11.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;Ars.Natura.Uta tuvo el placer de recibir al artista visitante Foon Sham la semana pasada. Durante siete días enteros, Foon estaba inmerso en la cultura boliviana.&lt;/p&gt;
+
+&lt;p&gt;Durante la semana, Foon visitó los numerosos museos de La Paz, galerías tan respetadas como la de Mérida Romero, se reunió con artistas locales y dio una presentación a estudiantes de arte en la Universidad Mayor de San Andrés en La Paz.&lt;/p&gt;
+
+&lt;p&gt;Inspirado particularmente por las montañas que nos rodean, Foon nos dejó una escultura, actualmente en progreso como se ve por las imágenes de abajo, que se inaugurará en Ars.Natura.Uta para IS Day 2016, un evento mundial organizado por la Organización Internacional de Escultura.&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.3 --&gt;
+
+&lt;div id=&quot;slider20160419b&quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_12.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_13.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_14.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_15.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_16.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_17.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_18.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_19.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_20.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_21.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_22.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_23.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
+  
+  &lt;/div&gt;
+
+</content>
+
+			
+			
+
+			<published>2016-04-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/International-Sculpture-Day-2016/</id>
+			<title>International Sculpture Day 2016</title>
+			<link href="/es/International-Sculpture-Day-2016/" rel="alternate" type="text/html" title="International Sculpture Day 2016" />
+			<updated>2016-03-11T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/International-Sculpture-Day-2016/">&lt;p&gt;En celebración del Día Internacional de la Escultura, ARS.NATURA.UTA - El Proyecto, invita al público a una visita de apertura y celebración de sus instalaciones en la comunidad rural de Achocalla en las inmediaciones de La Paz, Bolivia.&lt;/p&gt;
+
+&lt;p&gt;El tour destacará el edificio principal, construido a partir de los edificios de la Misión Jesuítica del siglo XVIII ubicados en Chiquitos, cerca de Santa Cruz, Bolivia, así como el jardín de esculturas y las instalaciones ecológicas. El recorrido será guiado por el director y dueño del centro, con una visión del proceso de inspiración y creación de Ars.Natura.Uta. También habrá una pequeña exposición de arte dentro del patio del edificio principal.&lt;/p&gt;
+
+&lt;p&gt;El personal a tiempo completo y la juventud voluntaria local de la comunidad estarán disponibles para contestar preguntas sobre por qué y cómo de las esculturas, así como proporcionar información y acceso a las flores del jardín, verduras y animales de granja.&lt;/p&gt;
+
+&lt;p&gt;También habrá una demostración de fabricación de papel y, a continuación, un taller abierto a todas las edades. Todos los materiales serán cubiertos.&lt;/p&gt;
+
+&lt;p&gt;Las actividades en el ISDay son totalmente gratuitas; Sin embargo, pedimos que se haga la reserva, por correo electrónico, teléfono o medios sociales (twitter) con el número de personas en su grupo.&lt;/p&gt;
+
+&lt;p&gt;Tiempo: 2 - 7pm&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2:30 - 3:30: Recorrido de los terrenos&lt;/li&gt;
+  &lt;li&gt;3:30 - 4:00: Demostración de fabricación de papel&lt;/li&gt;
+  &lt;li&gt;4:00 - 5:00: Taller de fabricación de papel (todos los materiales incluidos, todas las edades)&lt;/li&gt;
+  &lt;li&gt;5:00 - 7:00: La inauguración de la Chacana (Cruz Andina) será al atardecer (6:18 pm) con el ritual tradicional andino conocido como Ch’alla, seguido de música y actuación.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Habrá refrescos ligeros.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-03-11T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/Welcome/</id>
+			<title>Bienvenido al nuevo sitio</title>
+			<link href="/es/Welcome/" rel="alternate" type="text/html" title="Bienvenido al nuevo sitio" />
+			<updated>2016-02-26T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/Welcome/">&lt;p&gt;El polvo todavía se está asentando, así que vuelve pronto para ver el contenido agregado.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-02-26T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://mtcharte.net/Monumento-chiquitano-en-Achocalla/</id>
+			<title>Monumento chiquitano en Achocalla</title>
+			<link href="/es/Monumento-chiquitano-en-Achocalla/" rel="alternate" type="text/html" title="Monumento chiquitano en Achocalla" />
+			<updated>2015-03-15T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>María Teresa Camacho-Hull</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/Monumento-chiquitano-en-Achocalla/">&lt;p&gt;&lt;a href=&quot;http://www.la-razon.com/index.php?_url=/suplementos/escape/Monumento-chiquitano-Achocalla_0_2233576719.html&quot;&gt;La Razón&lt;/a&gt; (Edición Impresa) /15 de marzo de 2015&lt;/p&gt;
+
+&lt;p&gt;Monumento chiquitano en Achocalla
+por Mariano Baptista Gumucio&lt;/p&gt;
+
+&lt;p&gt;En pleno centro de la explanada se levanta esta construcción que corresponde al siglo XVIII pero en estado de perfecta conservación.&lt;/p&gt;
+
+&lt;p&gt;Hacía tiempo que había oído hablar de un centro cultural en Achocalla que no pude visitar sino en las últimas semanas, por una invitación de su animadora, la artista María Teresa Camacho Hull. Tomamos el camino pavimentado del sur, partiendo de la plaza Humboldt y en 20 minutos desviamos a una ruta de tierra hacia la izquierda, subiendo la colina por unos 200 metros. Al fondo y en pleno centro de la explanada nos encontramos con la visión mágica de una bella construcción cuya arquitectura correspondía al siglo XVIII, pero en perfecto estado de conservación, cual si hubiera sido transportada por los aires desde la región de Chiquitos de Santa Cruz. Al lado, una soberbia torre de madera coronada por tres campanas grandes de bronce, eso sí originales, y a la entrada del predio una escultura de una llama sentada de tres metros de altura con un entorno de bellas raíces de árboles trabajadas por la artista, cuyas ramas parecen manos que se alzan en oración al cielo, felices de no haber sido convertidas en brasas para alimento de hornos, nos esperan.&lt;/p&gt;
+
+&lt;p&gt;Cuando se abre la puerta principal de madera, de tres por tres metros, tallada a mano y sostenida por pivotes del mismo material, es decir, sin bisagras, la sorpresa es aún mayor, pues la construcción de dos pisos corresponde a un amplio hogar con varias salas y un comedor unido a la cocina. Todo ello con puertas y ventanas hacia un patio interior cuyas paredes están decoradas con pinturas de María Teresa hechas con planchas de metal, que industrialmente tuvieron otros usos y que ahora son bellas obras de arte. Mientras recorríamos los diferentes ambientes y subíamos a la torre para disfrutar de un soberbio paisaje natural, en el que todavía se ven pocas viviendas y la cordillera de fondo, nos enteramos de la historia de este sitio, lleno de circunstancias casuales o inducidas, como son todas las vidas humanas.&lt;/p&gt;
+
+&lt;p&gt;El germen&lt;/p&gt;
+
+&lt;p&gt;Todo empezó cuando María Teresa visitó Estados Unidos con una beca de intercambio en Pittsburgh y resolvió, en 1965, volver a ese país para estudiar artes y trabajar. Mientras hacía sus trámites de visa conoció a un joven marine llamado Charles Jesse Hull quien, según le contaría después, se había alistado para ir a pelear a Vietnam. Pero intempestivamente el joven soldado tuvo un cambio de destino y lo enviaron a resguardar la embajada estadounidense en La Paz. Entonces el romance fue instantáneo y Charles convenció a Teresa de que se quedara en Bolivia, mientras él concluía su servicio militar. Finalmente se casaron en 1966, retornaron a Estados Unidos donde Charles culminó sus estudios de administración de empresas y finanzas en la universidad de Meryland, y a la par ella estudiaba bellas artes y literatura en el mismo centro universitario. Concluidos sus estudios, Chuck, como lo llamaban sus amigos, hizo una exitosa carrera jugando en la bolsa de valores de Nueva York. Posteriormente el hogar fue alegrado con la llegada de un hijo varón, Marcos, y cuatro niñas: Daniela, Andrea, Lucinda y Claudina. Sus cercanos afirmaban que Chuck tenía una mente abierta, corazón generoso y una voluntad de hierro. Todos los días corría al amanecer cerca al histórico canal de Meryland e intervino en más de 20 maratones, a ello se suma su participación por muchos años en el equipo de buceo de investigación marina de esa Universidad, lo que le permitió recorrer las islas del Caribe, las Antillas, el Mar Rojo, Tailandia, Tahití y Australia, solo por mencionar algunos de los mares que conoció. Y en los intervalos realizó  periódicas visitas a Bolivia, país del que había quedado enamorado desde su época de servicio militar.&lt;/p&gt;
+
+&lt;p&gt;En uno de sus viajes, la familia recorrió los templos de la provincia Chiquitos ya restaurados, y Chuck le dijo a su esposa que no era justo que tanta belleza solo fuera conocida por quienes podían visitar el Oriente boliviano. Fue así que le propuso que el centro cultural que ella planeaba construir en la remota Achocalla, a una hora del centro de La Paz, tuviera las características de uno de esos templos. Y como es una regla en su vida, se puso de inmediato manos a la obra. La construcción fue confiada al arquitecto Juan Carlos Vega, sobrino de María Teresa, quien tuvo que hacer varios viajes a Chiquitos para ver qué iglesia se acomodaba mejor al terreno de Achocalla y quiénes le ayudarían en la elaboración de columnas, puertas y ventanas talladas, tomando en cuenta además que, como en la época colonial, la construcción se haría sin clavos, es decir en base a ensamble de maderas. Varias de las columnas tenían 15 metros de altura, de manera que la familia García, especializada en madera tallada, debía enviar los enormes puntales mediante grúas y el resto de la madera en camiones. La primera previsión que tomó Chuck fue que su familia y él se integraran totalmente a la comunidad de Achocalla y que todas las familias contratadas fueran del lugar, incluidas las mujeres y los niños que hicieron los 50.000 adobes para los muros de 50 cm que tiene la casa. Las 50.000 tejas de los dos cuerpos del edificio fueron pedidas en La Paz. En tanto se procedía a la obra gruesa, Vega supervisaba el trabajo de carpintería en San Ignacio de Velasco y una vez concluido, se invitó por tres meses a 20 chiquitanos a Achocalla para poner en su sitio cada una de las piezas.&lt;/p&gt;
+
+&lt;p&gt;Como actividades alternas y como una forma de socialización, se organizaron dos equipos de fútbol para jugar los fines de semana y los chiquitanos participaron con entusiasmo en las fiestas religiosas y civiles de las familias aymaras. Entonces el monumento “chiquitano” de 36x36 metros con 17 m de altura empezó a tomar forma; su construcción demoró casi cuatro años. Imposible calcular su costo económico a los precios de hoy.&lt;/p&gt;
+
+&lt;p&gt;En uno de sus viajes a Chiquitos, Chuck, quien era muy aficionado a las artesanías, compró un recipiente de madera para decorar algún sitio de su residencia en Achocalla. Habían pasado 41 años de una vida de pareja con cinco retoños vivida intensamente, pero en 2007, a Chuck le diagnosticaron un cáncer que no se podía operar, entonces optó serenamente por seguir el tratamiento de quimioterapia y radiación para prolongar un poco su vida y concluir la construcción de la que llamaba la “Casa Grande” de Achocalla. Y en efecto, desde una silla de ruedas, daba instrucciones sobre la disposición del jardín de esculturas en el entorno y la ubicación de la torre campanario. Pero a los nueve meses de su diagnóstico presintió que su fin estaba próximo. Siete generaciones de su familia descansan en el cementerio de Manchester en Meryland, pero Chuck decidió tomar otra opción: le recordó a María Teresa ese recipiente de madera que años atrás había comprado en San Javier y le pidió que sus restos fueran colocados ahí y guardados en algún sitio de su hogar perpetuo. Su esposa y sus hijos estuvieron de acuerdo.&lt;/p&gt;
+
+&lt;p&gt;Ahora, en la pared del que debía ser su escritorio, el visitante puede ver una pequeña hornacina en la que se encuentra la urna de madera con los restos de este ser excepcional que le quiso ganar a la muerte durante los días en que esperaba concluir su obra. Andrea, una de sus hijas, ha retornado a Bolivia y construye junto a su esposo una pequeña casa en Achocalla. Hoy el sueño de Chuck es un taller de arte y centro de cultura que anima María Teresa en recuerdo de su esposo, escapando de los compromisos de exposiciones que ella tiene en el Norte. Pero es también la historia de amor de un hombre de empresa que quedó cautivado por un país y por una muchacha del lugar, medio siglo atrás.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+</content>
+
+			
+			
+
+			<published>2015-03-15T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
