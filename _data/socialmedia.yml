@@ -1,0 +1,14 @@
+#- name: Twitter
+#  url: http://twitter.com/phlow
+#  class: icon-twitter
+#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+#- name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""

@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Program Schedule for the International Day of Sculpture 2016
+layout: blog
+title: Horario para el Día Internacional de la Esculture 2016
 lang: es
 image_sliders:
   - slider20160422

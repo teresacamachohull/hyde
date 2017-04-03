@@ -1,0 +1,16 @@
+#- menu_name: "Thanks"
+
+#- name: "ebdesignway"
+#  url: ""
+#  class: "network-entypo"
+#  title: "Webmaster: ebdesignway"
+
+#- name: "Theme by Phlow"
+#  url: "http://phlow.github.io/feeling-responsive/"
+#  class: "network-entypo"
+#  title: "Feeling Responsive Design"
+
+#- name: "Built with Jekyll"
+#  url: "http://jekyllrb.com/"
+#  class: "network-entypo"
+#  title: "Jekyll"

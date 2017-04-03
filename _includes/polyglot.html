@@ -1,0 +1,5 @@
+<div style="padding-right: 3px;">Languages: |
+	{% for tongue in site.languages %}
+ 		<a {% if tongue == site.active_lang %}style="font-weight: bold; border-bottom: solid #8EA1B7"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a> |
+    {% endfor %}
+</div>

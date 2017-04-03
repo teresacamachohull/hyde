@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Program Schedule for the International Day of Sculpture 2016
 lang: en
 image_sliders:

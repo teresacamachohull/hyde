@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: El trabajo progresa...
 lang: es
 ---

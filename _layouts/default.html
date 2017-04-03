@@ -1,15 +1,25 @@
-<!DOCTYPE html>
-<html lang="en-us">
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-  {% include head.html %}      
-  <body class="layout-reverse theme-base-0d">
+	{% include _masthead.html %}
+	{{ content }}
 
-    {% include sidebar.html %}
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-    <div class="content container">
-      {{ content }}
-    </div>
-  <script src="{{ "/assets/js/lightbox/lightbox-plus-jquery.js" | relative_url }}"></script>
-  {% include slider_scripts.html %}
-  </body>
+	{% include _footer_scripts.html %}
+	<script src="{{ "/assets/js/lightbox/lightbox-plus-jquery.js" | relative_url }}"></script>
+    {% include slider_scripts.html %}
+</body>
 </html>

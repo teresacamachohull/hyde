@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Visiting Artist 2016 Foon Sham
+layout: blog
+title: Artista Visitante 2016 Foon Sham
 lang: es
 image_sliders:
   - slider20160419a

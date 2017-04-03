@@ -1,0 +1,30 @@
+- title: Home
+  url: "/"
+  side: left
+  
+- title: About
+  url: "/about"
+  side: left
+  dropdown:
+  - title: "Artist's Statement"
+    url: "/about/statement/"
+  - title: "Bio"
+    url: "/about/bio/"
+  - title: "Curriculum Vitae"
+    url: "/about/cv/"      
+  - title: "Press"
+    url: "/about/press/"      
+  - title: "Contact"
+    url: "/contact/"
+  
+- title: Portfolio
+  url: "/portfolio/"
+  side: left
+
+- title: "News"
+  url: "/news/"
+  side: left
+
+- title: "Ars.Natura.Uta"
+  url: "/arsnaturauta/"
+  side: left
