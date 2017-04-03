@@ -20,6 +20,17 @@
 - title: Portfolio
   url: "/portfolio/"
   side: left
+  dropdown:
+  - title: "Metal"
+    url: "/portfolio/metal/"
+  - title: "Ceramicas"
+    url: "/portfolio/ceramicas/"
+  - title: "Llama"
+    url: "/portfolio/llama/"
+  - title: "Mixed Media"
+    url: "/portfolio/mixedmedia/"
+  - title: "Raices"
+    url: "/portfolio/raices/"
 
 - title: "News"
   url: "/news/"

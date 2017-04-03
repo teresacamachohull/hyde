@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: Mixed Media
+permalink: "/portfolio/mixedmedia/"
 header: no
 gallery:
     - image_url: art003.jpg
