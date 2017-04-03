@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Llama
 permalink: "/portfolio/llama/"
 header: no

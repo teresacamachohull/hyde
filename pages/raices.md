@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Raices
 permalink: "/portfolio/raices/"
 header: no

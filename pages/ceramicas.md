@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Ceramicas
 permalink: "/portfolio/ceramicas/"
 header: no

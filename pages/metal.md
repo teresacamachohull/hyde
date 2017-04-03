@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Metal
 permalink: "/portfolio/metal/"
 header: no

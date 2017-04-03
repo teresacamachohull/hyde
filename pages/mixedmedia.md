@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Mixed Media
 header: no
 gallery:

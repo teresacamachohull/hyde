@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Portfolio
 permalink: "/portfolio/"
 header: no
