@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://mtcharte.net/</id>
 	<title>María Teresa Camacho Hull</title>
-	<updated>2017-04-03T04:19:37+00:00</updated>
+	<updated>2017-04-03T04:26:33+00:00</updated>
 
 	<subtitle>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</subtitle>
 
@@ -391,9 +391,12 @@
 			
 			<summary></summary>
 			<content type="html" xml:base="http://mtcharte.net/Welcome/">&lt;p&gt;The dust is still settling, so please check back soon for added content.&lt;/p&gt;
+
 </content>
 
 			
+			
+				<category term="post" />
 			
 
 			<published>2016-02-26T00:00:00+00:00</published>
