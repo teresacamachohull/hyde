@@ -1,12 +1,14 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Ars.Natura.Uta
-permalink: "/ArsNaturaUta/"
+permalink: "/arsnaturauta/"
 lang: en
 header: no
 ---
 
 <img src="{{ "images/art001.jpg" | relative_url }}" alt="panorama of Ars.Natura.Uta" />
+
+<div style="float: right;">
 
 Ars.Natura.Uta is an Arts and Culture Center located in the heart of the rural community of Achocalla, a city on the outskirts of La Paz, Bolivia.
 
@@ -14,3 +16,4 @@ The center began in 2004 with the construction of the main building in the style
 
 Ars.Natura.Uta is a privately-owned center and studio where environmental questions, as well as community and cultural concerns, are channeled through various forms of art, in a hope to clarify and strengthen the issues.
 
+</div>

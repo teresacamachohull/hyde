@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ars.Natura.Uta
-permalink: "/ArsNaturaUta/"
+permalink: "/arsnaturauta/"
 lang: es
 header: no
 ---
