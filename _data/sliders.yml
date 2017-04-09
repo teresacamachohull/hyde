@@ -121,17 +121,21 @@
   captions: false
   images:
     - src: /images/home_1.jpg
-      alt: art
+      alt: Endurance, 2014
     - src: /images/home_3.jpg
-      alt: art
+      alt: Bailarín, 2016
     - src: /images/home_7.jpg
-      alt: art
+      alt: Detail from 'itinerarius', 2016
     - src: /images/home_8.jpg
-      alt: art
+      alt: Jacob's Dream, 2016
     - src: /images/home_14.jpg
-      alt: art
+      alt: .
     - src: /images/home_16.jpg
-      alt: art
+      alt: Detail from 'itinerarius', 2016
+    - src: /images/home_17.jpg
+      alt: Sin Título, 2014
+    - src: /images/home_18.jpg
+      alt: Children's Games, 2016
   settings:
     height: "'auto'"  
     effect: "'fade'" 
