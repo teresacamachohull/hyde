@@ -113,13 +113,6 @@
     <section class="top-bar-section">
 
       <ul class="right">
-        <div style="padding-right: 3px;">Languages: |
-	
- 		<a style="font-weight: bold; border-bottom: solid #8EA1B7" href=" /assets/xslt/atom.xslt ">en</a> |
-    
- 		<a  href=" /es/assets/xslt/atom.xslt ">es</a> |
-    
-</div>
         
 
               
@@ -368,61 +361,23 @@
 </ul>
 
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-		    <div id="up-to-top" class="row">
+		        <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
-        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+        <!--a class="iconfont" href="#top-of-page">&#xf108;</a-->
       </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 
 
-    <!--footer id="footer-content" class="bg-grau">
-      <div id="footer">
-        <div class="row">
-          <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
-
-            <p class="shadow-black">
-              {"en"=>"» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia", "es"=>"» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia "}
-              <a href="http://mtcharte.net/info/">More ›</a>
-            </p>
-          </div--><!-- /.large-6.columns -->
-
-
-          <!--div class="small-6 medium-3 large-3 large-offset-1 columns">
-            
-
-              <ul class="no-bullet shadow-black">
-              
-              </ul>
-          </div--><!-- /.large-4.columns -->
-
-
-          <!--div class="small-6 medium-3 large-3 columns">
-            
-
-            <ul class="no-bullet shadow-black">
-            
-            </ul>
-          </div--><!-- /.large-3.columns -->
-        <!--/div--><!-- /.row -->
-
-      <!--/div--><!-- /#footer -->
-
-
-      <!--div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            
-          </section>
-
-          <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
-            
-            </ul>
-          </section>
-        </nav>
-      </div--><!-- /#subfooter -->
-    <!--/footer-->
+    <footer id="footer-content" style="text-align: right; padding-right: 10px;">
+       <div><p>Languages: |
+	
+ 		<a class="tooltip" data-tool="Display site in english" style="font-weight: bold; border-bottom: solid #8EA1B7" href=" /assets/xslt/atom.xslt ">en</a> |
+    
+ 		<a class="tooltip" data-tool="Mostrar sito en español"  href=" /es/assets/xslt/atom.xslt ">es</a> |
+    
+    &bull; All rights reserved. Copyright © 2017</p>
+</div> 
+    </footer>
 
 		
 
