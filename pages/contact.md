@@ -22,6 +22,6 @@ header: no
     <!--input type="hidden" name="_next" value="//mywebsite.com/thanks.html" /-->
     <input type="hidden" name="_subject" value="Email sent via mtcharte.net" />
 
-    <input type="submit" value="Send">
+    <input type="submit" class="button left r15 tiny radius" value="Send">
   </form>
 </div>
