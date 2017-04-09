@@ -9,6 +9,17 @@
 		<atom:link href="http://mtcharte.net/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Working on the catalog</title>
+				<link>http://mtcharte.net/Working-on-the-catalog/</link>
+				<pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/20170310catalog.gif&quot; alt=&quot;flipping through the catalog animated gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Coming soon! Work on the catalog from the installation last September continues, with a projected printing date of mid-April.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://mtcharte.net/Working-on-the-catalog/</guid>
+			</item>
+		
+			<item>
 				<title>This Thursday!</title>
 				<link>http://mtcharte.net/This-thursday/</link>
 				<pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
