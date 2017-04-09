@@ -1,3 +1,51 @@
+- selector: slider20161009
+  captions: false
+  images:
+    - src: /images/20161009_1.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_2.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_3.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_4.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_5.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_6.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_7.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_8.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_9.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_10.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_11.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_12.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_13.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_14.jpg
+      alt: itinerarius, 2016
+    - src: /images/20161009_15.jpg
+      alt: itinerarius, 2016
+  settings:
+    height: "'auto'"
+
+- selector: slider20170316
+  captions: false
+  images:
+    - src: /images/20170316_1.jpg
+      alt: sculpture 2017
+    - src: /images/20170316_2.jpg
+      alt: sculpture 2017
+    - src: /images/20170316_3.jpg
+      alt: sculpture 2017  
+  settings:
+    height: "'auto'"
+
 - selector: slider20160722
   captions: true
   images:

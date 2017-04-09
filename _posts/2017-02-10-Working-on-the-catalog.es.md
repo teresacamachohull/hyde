@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working on the catalog
+title: Preparando el catalogo
 lang: es
 header: no
 show_meta: false

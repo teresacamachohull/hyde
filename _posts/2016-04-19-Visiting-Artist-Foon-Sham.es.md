@@ -10,7 +10,7 @@ image_sliders:
 
 {% include slider.html selector="slider20160419a" %}
 
-Ars.Natura.Uta tuvo el placer de recibir al artista visitante Foon Sham la semana pasada. Durante siete días enteros, Foon estaba inmerso en la cultura boliviana.
+Ars.Natura.Uta tuvo el placer de recibir al artista visitante <a href="http://www.foonsham.com/" target="_blank">Foon Sham</a> la semana pasada. Durante siete días enteros, Foon estaba inmerso en la cultura boliviana.
 
 Durante la semana, Foon visitó los numerosos museos de La Paz, galerías tan respetadas como la de Mérida Romero, se reunió con artistas locales y dio una presentación a estudiantes de arte en la Universidad Mayor de San Andrés en La Paz.
 

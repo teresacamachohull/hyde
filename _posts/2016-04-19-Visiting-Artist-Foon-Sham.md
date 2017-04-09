@@ -10,7 +10,7 @@ image_sliders:
 
 {% include slider.html selector="slider20160419a" %}
 
-Ars.Natura.Uta had the pleasure of hosting visiting artist Foon Sham last week. For seven full days, Foon was immersed in Bolivian culture.
+Ars.Natura.Uta had the pleasure of hosting visiting artist <a href="http://www.foonsham.com/" target="_blank">Foon Sham</a> last week. For seven full days, Foon was immersed in Bolivian culture.
 
 During the week, Foon visited La Paz’s many museums, well-respected galleries like Merida Romero’s, met with local artists, and gave a presentation to art students at the University Mayor de San Andres in La Paz.
 
