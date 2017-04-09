@@ -1,5 +1,6 @@
-<div style="padding-right: 3px;">Languages: |
+<div><p>Languages: |
 	{% for tongue in site.languages %}
- 		<a {% if tongue == site.active_lang %}style="font-weight: bold; border-bottom: solid #8EA1B7"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a> |
+ 		<a class="tooltip" {% if tongue == 'en'%}data-tool="Display site in english"{% endif %}{% if tongue == 'es'%}data-tool="Mostrar sito en español"{% endif %} {% if tongue == site.active_lang %}style="font-weight: bold; border-bottom: solid #8EA1B7"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a> |
     {% endfor %}
+    &bull; All rights reserved. Copyright © 2017</p>
 </div>

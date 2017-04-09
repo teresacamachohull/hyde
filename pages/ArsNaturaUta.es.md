@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Ars.Natura.Uta
 permalink: "/arsnaturauta/"
 lang: es
