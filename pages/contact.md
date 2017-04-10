@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 meta_title: "Contact the artist"
-teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 header: no
 ---
