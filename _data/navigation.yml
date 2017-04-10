@@ -1,7 +1,3 @@
-- title: Home
-  url: "/"
-  side: left
-  
 - title: About
   url: "/about"
   side: left
