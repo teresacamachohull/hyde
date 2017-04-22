@@ -91,11 +91,6 @@
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.3 -->
 
-<link rel="stylesheet" href="/assets/css/slider/ideal-image-slider.css">
-<link rel="stylesheet" href="/assets/css/slider/themes/default.css">
-<!-- don't copy the following line, applies only to jekyll minima theme -->
-<style type="text/css">.ideal-image-slider{margin-bottom:15px}</style>
-
 
 
 </head>
@@ -302,7 +297,11 @@
 
 
 <div class="row">
-    <!-- Jekyll Ideal Image Slider Include -->
+    <!--
+image_sliders:
+ - sliderhome
+-->
+<!--<!-- Jekyll Ideal Image Slider Include -->
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.3 -->
 
@@ -326,6 +325,9 @@
   
   </div>
 
+<p>–&gt;</p>
+
+<p><img src="/images/ISDay2017.jpg" alt="ISDay 2017 invitation" /></p>
 
 </div><!-- /.row -->
 
@@ -375,36 +377,6 @@
 
 
 
-
-  <script src="/assets/js/slider/ideal-image-slider.min.js"></script>
-  <script src="/assets/js/slider/iis-captions.js"></script>
-  <script>
-  
-    
-    
-    var slider = new IdealImageSlider.Slider({
-      selector: '#sliderhome',
-      
-      height: 'auto',
-      
-      
-      
-      maxHeight: 600,
-      
-      
-      
-      
-      effect: 'fade',
-      
-      
-      
-      
-      
-    });
-    
-    slider.start();
-  
-  </script>
 
 
 </body>
