@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://mtcharte.net/</id>
 	<title>María Teresa Camacho Hull - Artist</title>
-	<updated>2017-04-22T03:04:27+00:00</updated>
+	<updated>2017-04-25T21:51:18+00:00</updated>
 
 	<subtitle>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</subtitle>
 
@@ -24,6 +24,23 @@
 
 	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://mtcharte.net/ISDay-2017/</id>
+			<title>International Day of Sculpture 2017 at Ars.Natura.Uta.</title>
+			<link href="http://mtcharte.net/ISDay-2017/" rel="alternate" type="text/html" title="International Day of Sculpture 2017 at Ars.Natura.Uta." />
+			<updated>2017-04-21T00:00:00+00:00</updated>
+
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/ISDay-2017/">&lt;p&gt;&lt;img src=&quot;/images/ISDay2017.jpg&quot; alt=&quot;ISDay 2017 invitation&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2017-04-21T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://mtcharte.net/Getting-ready-for-a-new-sculpture/</id>
@@ -377,42 +394,6 @@
 			
 
 			<published>2016-04-19T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://mtcharte.net/International-Sculpture-Day-2016/</id>
-			<title>International Sculpture Day 2016</title>
-			<link href="http://mtcharte.net/International-Sculpture-Day-2016/" rel="alternate" type="text/html" title="International Sculpture Day 2016" />
-			<updated>2016-03-11T00:00:00+00:00</updated>
-
-			
-			<summary></summary>
-			<content type="html" xml:base="http://mtcharte.net/International-Sculpture-Day-2016/">&lt;p&gt;In celebration of the International Sculpture Day, ARS.NATURA.UTA – The Project, invites the public to an open-house tour and celebration of its facilities in the rural community of Achocalla in the vicinity of La Paz, Bolivia.&lt;/p&gt;
-
-&lt;p&gt;The tour will highlight the main building, styled after the 18th century Jesuit Mission buildings located in Chiquitos, near Santa Cruz, Bolivia, as well as include the sculpture garden and ecological facilities. The tour will be guided by the director and owner of the center, with insight into the inspiration and creation process of Ars.Natura.Uta. There will be also be a small art exhibit inside the courtyard of the main building.&lt;/p&gt;
-
-&lt;p&gt;Full-time staff and the local volunteer youth of the community will be available to answer questions on the why and how of the sculptures, as well as provide information and access to the garden flowers, vegetables and farm animals.&lt;/p&gt;
-
-&lt;p&gt;There will also be a papermaking demonstration and, following that, a workshop open to all ages. All materials will be covered.&lt;/p&gt;
-
-&lt;p&gt;The activities in the ISDay are totally free of charge; however, we ask for reservation to be made, via email, telephone or social media (twitter) with the number of people in your party.&lt;/p&gt;
-
-&lt;p&gt;Time: 2 – 7pm&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2:30 – 3:30: Tour of the grounds&lt;/li&gt;
-  &lt;li&gt;3:30 – 4:00: Papermaking Demonstration&lt;/li&gt;
-  &lt;li&gt;4:00 – 5:00: Papermaking Workshop (all materials included, all ages)&lt;/li&gt;
-  &lt;li&gt;5:00 – 7:00: The unveiling of the Chacana (Andean Cross) will be at sundown (6:18pm) with the Andean traditional ritual known as Ch’alla, followed by music and performance.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There will be light refreshments.&lt;/p&gt;
-</content>
-
-			
-			
-
-			<published>2016-03-11T00:00:00+00:00</published>
 		</entry>
 	
 </feed>
