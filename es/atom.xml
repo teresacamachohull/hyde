@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://mtcharte.net/</id>
 	<title>María Teresa Camacho Hull - Artist</title>
-	<updated>2017-04-25T21:51:18+00:00</updated>
+	<updated>2017-04-26T16:41:41+00:00</updated>
 
 	<subtitle>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</subtitle>
 
@@ -24,6 +24,47 @@
 
 	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://mtcharte.net/A-beautiful-day/</id>
+			<title>Un día bello</title>
+			<link href="/es/A-beautiful-day/" rel="alternate" type="text/html" title="Un día bello" />
+			<updated>2017-04-25T00:00:00+00:00</updated>
+
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/A-beautiful-day/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.3 --&gt;
+
+&lt;div id=&quot;slider20170425&quot;&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_1.jpg&quot; title=&quot;&quot; alt=&quot;Visiting Artist Dave Caudill shows the inital progress of his labyrinth.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_2.jpg&quot; title=&quot;&quot; alt=&quot;María Teresa Camacho-Hull and Dave Caudill showing the plans for the labyrinth.&quot; /&gt;
+  
+    &amp;lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_3.jpg&quot; title=&quot;&quot; alt=&quot;The artist discussing her piece &quot;Know Thyself!&quot; (2016)&quot;&amp;gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_4.jpg&quot; title=&quot;&quot; alt=&quot;ISDay celebrations included a exhibit of the artist's most recent work.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_5.jpg&quot; title=&quot;&quot; alt=&quot;A chance to network on an international scale.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_6.jpg&quot; title=&quot;&quot; alt=&quot;Beautiful Illimani in the background as the festivities began.&quot; /&gt;
+  
+    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20170425_7.jpg&quot; title=&quot;&quot; alt=&quot;A typical Andean ch'alla inaugurated the sculpture by last year's Visiting Artist Foon Sham.&quot; /&gt;
+  
+  &lt;/div&gt;
+
+&lt;p&gt;¡Gracias a todos los que vinieron!&lt;/p&gt;
+
+&lt;p&gt;..Y ya estamos haciendo planes para ISDay 2018, así que manténganse al tanto.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2017-04-25T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://mtcharte.net/ISDay-2017/</id>
@@ -310,90 +351,6 @@
 			
 
 			<published>2016-04-22T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://mtcharte.net/Visiting-Artist-Foon-Sham/</id>
-			<title>Artista Visitante 2016 Foon Sham</title>
-			<link href="/es/Visiting-Artist-Foon-Sham/" rel="alternate" type="text/html" title="Artista Visitante 2016 Foon Sham" />
-			<updated>2016-04-19T00:00:00+00:00</updated>
-
-			
-			<summary></summary>
-			<content type="html" xml:base="http://mtcharte.net/Visiting-Artist-Foon-Sham/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
-&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
-&lt;!-- v1.3 --&gt;
-
-&lt;div id=&quot;slider20160419a&quot;&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_1.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_2.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_3.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_4.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_5.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_6.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_7.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_8.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_9.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_10.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_11.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-  &lt;/div&gt;
-
-&lt;p&gt;Ars.Natura.Uta tuvo el placer de recibir al artista visitante &lt;a href=&quot;http://www.foonsham.com/&quot; target=&quot;_blank&quot;&gt;Foon Sham&lt;/a&gt; la semana pasada. Durante siete días enteros, Foon estaba inmerso en la cultura boliviana.&lt;/p&gt;
-
-&lt;p&gt;Durante la semana, Foon visitó los numerosos museos de La Paz, galerías tan respetadas como la de Mérida Romero, se reunió con artistas locales y dio una presentación a estudiantes de arte en la Universidad Mayor de San Andrés en La Paz.&lt;/p&gt;
-
-&lt;p&gt;Inspirado particularmente por las montañas que nos rodean, Foon nos dejó una escultura, actualmente en progreso como se ve por las imágenes de abajo, que se inaugurará en Ars.Natura.Uta para IS Day 2016, un evento mundial organizado por la Organización Internacional de Escultura.&lt;/p&gt;
-
-&lt;!-- Jekyll Ideal Image Slider Include --&gt;
-&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
-&lt;!-- v1.3 --&gt;
-
-&lt;div id=&quot;slider20160419b&quot;&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_12.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_13.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_14.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_15.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_16.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_17.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_18.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_19.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_20.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_21.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_22.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160419_23.jpg&quot; title=&quot;&quot; alt=&quot;Foon Sham in Bolivia&quot; /&gt;
-  
-  &lt;/div&gt;
-
-</content>
-
-			
-			
-
-			<published>2016-04-19T00:00:00+00:00</published>
 		</entry>
 	
 </feed>
