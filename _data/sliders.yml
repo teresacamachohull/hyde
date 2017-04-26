@@ -1,3 +1,23 @@
+- selector: slider20170425
+  captions: true
+  images:
+    - src: /images/20170425_1.jpg
+      alt: Visiting Artist Dave Caudill shows the inital progress of his labyrinth.
+    - src: /images/20170425_2.jpg
+      alt: María Teresa Camacho-Hull and Dave Caudill showing the plans for the labyrinth.
+    - src: /images/20170425_3.jpg
+      alt: The artist discussing her piece "Know Thyself!" (2016)
+    - src: /images/20170425_4.jpg
+      alt: ISDay celebrations included a exhibit of the artist's most recent work.
+    - src: /images/20170425_5.jpg
+      alt: A chance to network on an international scale. 
+    - src: /images/20170425_6.jpg
+      alt: Beautiful Illimani in the background as the festivities began. 
+    - src: /images/20170425_7.jpg
+      alt: A typical Andean ch'alla inaugurated the sculpture by last year's Visiting Artist Foon Sham.
+  settings:
+    height: "'auto'"  
+
 - selector: slider20161009
   captions: false
   images:
