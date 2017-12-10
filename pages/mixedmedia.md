@@ -29,6 +29,8 @@ gallery:
     - image_url: art119.jpg
     - image_url: art126.jpg
     - image_url: art145.jpg
+    - image_url: art358.jpg
+    - image_url: art359.jpg
 ---
 
 {% include gallery %}
