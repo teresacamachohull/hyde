@@ -17,14 +17,18 @@
   url: "/portfolio/"
   side: left
   dropdown:
-  - title: "Metal"
-    url: "/portfolio/metal/"
   - title: "Ceramicas"
     url: "/portfolio/ceramicas/"
-  - title: "Llama"
-    url: "/portfolio/llama/"
+  - title: "Pinturas"
+    url: "/portfolio/pinturas/"
+  - title: "Dibujos"
+    url: "/portfolio/dibujos/"
+  - title: "Metal"
+    url: "/portfolio/metal/"
   - title: "Mixed Media"
     url: "/portfolio/mixedmedia/"
+  - title: "Llama"
+    url: "/portfolio/llama/"
   - title: "Raices"
     url: "/portfolio/raices/"
 
