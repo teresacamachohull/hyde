@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://mtcharte.net/</id>
 	<title>María Teresa Camacho Hull - Artist</title>
-	<updated>2017-12-10T20:36:39+00:00</updated>
+	<updated>2019-04-26T16:16:29+00:00</updated>
 
 	<subtitle>{&quot;en&quot;=&gt;&quot;» Website of María Teresa Camacho-Hull // Artist // Achocalla - Bolivia&quot;, &quot;es&quot;=&gt;&quot;» Sitio de María Teresa Camacho-Hull // Artist // Achocalla - Bolivia &quot;}</subtitle>
 
@@ -24,6 +24,23 @@
 
 	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://mtcharte.net/ISDay-2019/</id>
+			<title>Día Internacional de la Escultura 2019 en Ars.Natura.Uta.</title>
+			<link href="/es/ISDay-2019/" rel="alternate" type="text/html" title="Día Internacional de la Escultura 2019 en Ars.Natura.Uta." />
+			<updated>2019-04-23T00:00:00+00:00</updated>
+
+			
+			<summary></summary>
+			<content type="html" xml:base="http://mtcharte.net/ISDay-2019/">&lt;p&gt;&lt;img src=&quot;/images/ISDay2019.png&quot; alt=&quot;ISDay 2019 invitation&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2019-04-23T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://mtcharte.net/A-beautiful-day/</id>
@@ -316,41 +333,6 @@
 			
 
 			<published>2016-05-05T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://mtcharte.net/Program-Schedule-for-ISDay-2016/</id>
-			<title>Horario para el Día Internacional de la Esculture 2016</title>
-			<link href="/es/Program-Schedule-for-ISDay-2016/" rel="alternate" type="text/html" title="Horario para el Día Internacional de la Esculture 2016" />
-			<updated>2016-04-22T00:00:00+00:00</updated>
-
-			
-			<summary></summary>
-			<content type="html" xml:base="http://mtcharte.net/Program-Schedule-for-ISDay-2016/">&lt;!-- Jekyll Ideal Image Slider Include --&gt;
-&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
-&lt;!-- v1.3 --&gt;
-
-&lt;div id=&quot;slider20160422&quot;&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_1.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_2.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_3.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_4.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-  &lt;/div&gt;
-
-&lt;p&gt;Se puede descargar el PDF &lt;a href=&quot;/downloads/ISDay2016_invitation.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Agradecemos con antemano su participación, reservando con mensaje de texto por WhatsApp a 60148549. Para inscribir para el taller de papel hecho a mano, incluye la palabra “taller”. Gracias!&lt;/p&gt;
-</content>
-
-			
-			
-
-			<published>2016-04-22T00:00:00+00:00</published>
 		</entry>
 	
 </feed>

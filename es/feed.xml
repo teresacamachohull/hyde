@@ -9,6 +9,15 @@
 		<atom:link href="/es/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Día Internacional de la Escultura 2019 en Ars.Natura.Uta.</title>
+				<link>http://mtcharte.net/ISDay-2019/</link>
+				<pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/ISDay2019.png&quot; alt=&quot;ISDay 2019 invitation&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://mtcharte.net/ISDay-2019/</guid>
+			</item>
+		
+			<item>
 				<title>Un día bello</title>
 				<link>http://mtcharte.net/A-beautiful-day/</link>
 				<pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
@@ -227,33 +236,6 @@
 &lt;p&gt;&lt;img src=&quot;/images/20160505_15.jpg&quot; alt=&quot;Una danza en honor a la ch'alla&quot; /&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://mtcharte.net/A-total-success/</guid>
-			</item>
-		
-			<item>
-				<title>Horario para el Día Internacional de la Esculture 2016</title>
-				<link>http://mtcharte.net/Program-Schedule-for-ISDay-2016/</link>
-				<pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
-				<description>&lt;!-- Jekyll Ideal Image Slider Include --&gt;
-&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
-&lt;!-- v1.3 --&gt;
-
-&lt;div id=&quot;slider20160422&quot;&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_1.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_2.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_3.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-    &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/20160422_4.jpg&quot; title=&quot;&quot; alt=&quot;program detail&quot; /&gt;
-  
-  &lt;/div&gt;
-
-&lt;p&gt;Se puede descargar el PDF &lt;a href=&quot;/downloads/ISDay2016_invitation.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Agradecemos con antemano su participación, reservando con mensaje de texto por WhatsApp a 60148549. Para inscribir para el taller de papel hecho a mano, incluye la palabra “taller”. Gracias!&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://mtcharte.net/Program-Schedule-for-ISDay-2016/</guid>
 			</item>
 		
 	</channel>
